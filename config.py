@@ -1,0 +1,5 @@
+
+
+ASSET_PATH = "assets"
+
+DEFAULT_THRESHOLD = 0.5

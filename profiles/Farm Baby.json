@@ -1,0 +1,22 @@
+{
+    "_profile_name": "Farm Baby",
+    "attack_side": "Left",
+    "deploy_delay": 5,
+    "return_home_delay": 5,
+    "loot_enable": true,
+    "min_gold": 300000,
+    "min_elixir": 300000,
+    "loot_mode": "AND",
+    "heroes": {
+        "king": false,
+        "queen": false,
+        "warden": false,
+        "royal_champion": false,
+        "minion_prince": false,
+        "duke": false
+    },
+    "wall_enable": true,
+    "wall_resource": "Auto",
+    "wall_count": 4,
+    "deploy_actions": []
+}

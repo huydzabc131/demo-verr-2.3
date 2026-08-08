@@ -1,0 +1,21 @@
+{
+    "attack_side": "Random",
+    "deploy_delay": 2,
+    "return_home_delay": 3,
+    "loot_enable": true,
+    "min_gold": 200000,
+    "min_elixir": 200000,
+    "loot_mode": "Auto",
+    "heroes": {
+        "king": true,
+        "queen": true,
+        "warden": true,
+        "royal_champion": true,
+        "minion_prince": false,
+        "duke": false
+    },
+    "wall_enable": true,
+    "wall_resource": "Auto",
+    "wall_count": 4,
+    "deploy_actions": []
+}

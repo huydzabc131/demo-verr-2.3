@@ -1,0 +1,8 @@
+{
+  "name": "Clash Auto Farm Pro",
+  "description": "Desktop PySide6 Auto Farm Tool for Clash of Clans with ADB and OCR controls",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
